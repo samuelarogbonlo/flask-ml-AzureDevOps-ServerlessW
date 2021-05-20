@@ -1,6 +1,6 @@
 setup:
-	python3 -m venv ~/.flask-ml-azure
-	#source ~/.flask-ml-azure/bin/activate
+	python3 -m venv ~/.flask-ml-AzureDevOps
+	#source ~/.flask-ml-AzureDevOps/bin/activate
 	
 install:
 	pip install --upgrade pip &&\

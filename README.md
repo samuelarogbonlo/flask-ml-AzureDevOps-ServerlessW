@@ -28,3 +28,11 @@ https://<your-appservice>.azurewebsites.net/
 
 ## Note
 All the steps mentioned are just to perform a simple deployment with the Azure Pipeline and a demo project. The steps does not vary with other types of applications; the goal of the repo is to explore Azure Pipelines not neccesarily the application type. 
+
+## Hire me
+Looking for an engineer to build and automate your next application infrastruture/architecture to work remotely? Get in touch: sbayo971@gmail.com
+
+## How can I thank you?
+Why not star the Github repo? I'd love the attention! Why not share the link for this repository on Twitter,Hackernews or Destructoid ? Spread the word!
+
+Don't forget to follow me on [twitter](https://twitter.com/SamuelArogbonlo). Also, you could see other things I do in the software enviroment via my [website](https://samuelarogbonlo.github.io/)
